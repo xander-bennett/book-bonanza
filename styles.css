@@ -174,7 +174,7 @@ header {
   position: relative;
 }
 
-#highlights:before {
+/* #highlights:before {
   content: "";
   position: absolute;
   top: 0;
@@ -187,7 +187,7 @@ header {
     rgba(115, 66, 214, 0.1) 100%
   );
   z-index: -1;
-}
+} */
 
 #highlights:after {
   content: "";
